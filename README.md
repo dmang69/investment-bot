@@ -41,4 +41,4 @@ This platform ingests cross-market data, evaluates opportunities with specialize
 - Multi-user asset management with deposits, risk profiles, and performance dashboards.
 
 ## Founder narrative (investor-ready)
-We are building a next-generation investment operating system that combines AI-native market intelligence with strict risk discipline. By unifying crypto, equities, business analysis, and decentralized finance in one modular architecture, the platform is designed to scale from a focused trading engine into a transparent multi-user investment ecosystem.
+We are building a next-generation investment operating system that combines AI-native market intelligence with strict risk discipline. Our differentiators are a specialized multi-agent architecture, auditable decision trails across every trade, and a phased deployment model (backtest -> paper -> controlled live) that prioritizes capital protection while scaling. By unifying crypto, equities, business analysis, and decentralized finance in one modular architecture, the platform is designed to scale from a focused trading engine into a transparent multi-user investment ecosystem.
