@@ -6,7 +6,7 @@ Build an intelligent, AI-driven investment platform that operates across crypto 
 ## Mission Statement
 To deliver a disciplined, data-driven investment engine that identifies high-value opportunities, executes risk-aware strategies, and continuously optimizes portfolio performance across centralized and decentralized markets.
 
-## Value proposition
+## Value Proposition
 - Multi-market intelligence in one platform (crypto, equities, business, and DeFi).
 - Real-time decisioning powered by analytics and machine learning.
 - Adaptive risk controls that enforce exposure and downside limits.
@@ -41,4 +41,8 @@ This platform ingests cross-market data, evaluates opportunities with specialize
 - Multi-user asset management with deposits, risk profiles, and performance dashboards.
 
 ## Founder narrative (investor-ready)
-We are building a next-generation investment operating system that combines AI-native market intelligence with strict risk discipline. Our differentiators are a specialized multi-agent architecture, auditable decision trails across every trade, and a phased deployment model (backtest -> paper -> controlled live) that prioritizes capital protection while scaling. By unifying crypto, equities, business analysis, and decentralized finance in one modular architecture, the platform is designed to scale from a focused trading engine into a transparent multi-user investment ecosystem.
+We are building a next-generation investment operating system that combines AI-native market intelligence with strict risk discipline.
+
+Our differentiators are a specialized multi-agent architecture, auditable decision trails across every trade, and a phased deployment model (backtest -> paper -> controlled live) that prioritizes capital protection while scaling.
+
+By unifying crypto, equities, business analysis, and decentralized finance in one modular architecture, the platform is designed to scale from a focused trading engine into a transparent multi-user investment ecosystem.
