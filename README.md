@@ -3,7 +3,7 @@
 ## Vision
 Build an intelligent, AI-driven investment platform that operates across crypto markets, stock exchanges, business investing, and decentralized asset management.
 
-## Mission statement
+## Mission Statement
 To deliver a disciplined, data-driven investment engine that identifies high-value opportunities, executes risk-aware strategies, and continuously optimizes portfolio performance across centralized and decentralized markets.
 
 ## Value proposition
@@ -13,7 +13,7 @@ To deliver a disciplined, data-driven investment engine that identifies high-val
 - Portfolio optimization through strategy selection and rebalancing logic.
 - Unified automation that reduces manual, fragmented workflows.
 
-## Problem / solution framing
+## Problem/Solution Framing
 ### Problem
 Investors face fragmented tooling, noisy multi-market data, fast regime changes, and inconsistent decision-making under volatility.
 
